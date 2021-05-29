@@ -1,3 +1,4 @@
+//removed my api key get key from open weather map
 let weather = {
     apiKey: "",
     getWeather: function (city) {
